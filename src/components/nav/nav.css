@@ -1,0 +1,22 @@
+.nav {
+    padding-top: 30px;
+    width: 200px;
+    text-align: left;
+}
+
+.nav__item {
+    color: #fff;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.nav__item_active{
+    color: rgb(29, 161, 242);
+}
+.nav__item:hover{
+    color: rgb(29, 161, 242);
+}
+
+.nav__item + .nav__item {
+    margin-top: 23px;
+}

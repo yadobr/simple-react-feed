@@ -1,0 +1,15 @@
+.feed__tweet {
+    height: 70px;
+    padding: 15px;
+    border-bottom: 1px solid #38444d;
+    cursor: pointer;
+}
+
+.feed__input{
+    height: 40px;
+    padding: 10px 15px;
+    border-radius: 40px;
+    background-color: rgb(37, 51, 65);
+    color: rgb(136, 153, 166);
+    font-size: 15px;
+}
